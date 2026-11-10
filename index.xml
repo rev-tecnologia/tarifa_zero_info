@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tarifa Zero Já on Tarifa Zero</title>
+    <link>https://rev-tecnologia.github.io/tarifa_zero_info/</link>
+    <description>Pelo direito à cidade e mobilidade para todos.</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Tue, 10 Nov 2026 10:00:00 -0300</lastBuildDate>
+    <atom:link href="https://rev-tecnologia.github.io/tarifa_zero_info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PEC 18/26</title>
+      <link>https://rev-tecnologia.github.io/tarifa_zero_info/writing/pec-18-26/</link>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 -0300</pubDate>
+      <guid>https://rev-tecnologia.github.io/tarifa_zero_info/writing/pec-18-26/</guid>
+      <description>Apresentada pelo governo Lula</description>
+    </item>
+    <item>
+      <title>PEC 25/23</title>
+      <link>https://rev-tecnologia.github.io/tarifa_zero_info/writing/pec-25-23/</link>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 -0300</pubDate>
+      <guid>https://rev-tecnologia.github.io/tarifa_zero_info/writing/pec-25-23/</guid>
+      <description>Apresentada pela deputada Luiza Erundina</description>
+    </item>
+  </channel>
+</rss>
